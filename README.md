@@ -1,27 +1,25 @@
 # Curso59435
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
+## Clase 1 
 
-## Development server
+Bienvenidos a este nuevo curso de Angular. Espero que todos estén contentos y preparados para llevar adelante las clases en donde vamos a ir aprendiendo sobre esta herramienta y lo vamos a poner a prueba.
+Mi nombre es Nicolás y estoy a disposición para brindarles toda la ayuda que necesiten.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+En esta clase empezamos el trayecto de aprendizaje. Aprendimos: 
+ - Qué es Angular.
+ - La diferencia entre Angular y AngularJS.
+ - Instalamos nuestras herramientas principales.
+ - Creamos nuestro primer proyecto
+ - Lo subimos a nuestro git para poder ir subiendo los cambios y compartirlos con todos.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Cómo levantar el proyecto de manera local
 
-## Build
+Debemos utilizar el comando `ng serve` en nuestra consola. Creará una instancia local en la dirección: `http://localhost:4200/`. A medida que guardemos los cambios la aplicación recargará y mostrará los mismos.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Si utilizamos el comando `ng server -o` no solo podremos levantar el proyecto sino que automáticamente abrirá la instancia en nuestro navegador.
 
-## Running unit tests
+Para deterner la ejecución alcanza con hacer `CTRL + C` en nuestra consola.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+### Ante cualquier duda/consulta no duden en escribir.
